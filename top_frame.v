@@ -13,7 +13,7 @@ module top_frame(
 	output sop
 
 );
-   wire controlkkkk;
+   wire control;
    wire ready_in1;
    wire sop_preamb, sop_ofdm;
    wire signed [15:0] I_O,Q_O,I_P,Q_P;
