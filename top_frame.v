@@ -12,8 +12,7 @@ module top_frame(
 	output reg signed [15:0] I, Q,
 	output sop
 
-
-);
+);rererer
    wire control;
    wire ready_in1;
    wire sop_preamb, sop_ofdm;
